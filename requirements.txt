@@ -7,13 +7,14 @@ scipy>=1.7.0
 
 # Machine learning
 scikit-learn>=1.0.0
-xgboost>=1.5.0
-lightgbm>=3.3.0
+# xgboost>=1.5.0
+# lightgbm>=3.3.0
 
 # Deep learning (optional - uncomment if needed)
-# tensorflow>=2.8.0
-# torch>=1.11.0
-# torchvision>=0.12.0
+tensorflow>=2.8.0
+torch>=2.1.0
+torchvision>=0.12.0
+transformers>=4.50.0
 
 # Jupyter and notebook tools
 jupyter>=1.0.0
@@ -22,22 +23,23 @@ ipykernel>=6.4.0
 
 # Data visualization
 plotly>=5.3.0
-bokeh>=2.4.0
+pillow >= 9.5.0
+# bokeh>=2.4.0
 
 # Statistical analysis
 statsmodels>=0.13.0
 
 # Data processing and utilities
-openpyxl>=3.0.0
-xlrd>=2.0.0
+# openpyxl>=3.0.0
+# xlrd>=2.0.0
 requests>=2.26.0
-beautifulsoup4>=4.10.0
+# beautifulsoup4>=4.10.0
 
 # Development and testing
 pytest>=6.2.0
 pytest-cov>=3.0.0
-black>=21.9.0
-flake8>=4.0.0
+# black>=21.9.0
+# flake8>=4.0.0
 mypy>=0.910
 
 # Environment and configuration
