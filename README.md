@@ -35,14 +35,19 @@ DataSci/
 
 ## Usage
 
-Describe how to use your project here.
+This is an exploratory project with the ultimate goal of predicting which fashion items are most likely to sell for a profit in upcoming fashion seasons.
+
+Project Phases:
+
+Phase 1 (current): Semantic Segmentation + Feature Extraction
+
+Phase 2 (future): Predictive Model Development
+
+Phase 3 (future): Model Deployment, Inference Results, Hypothesis Testing
 
 ## Data
 
-Place your data files in the appropriate `data/` subdirectories:
-- `data/raw/` - Original, unmodified data
-- `data/processed/` - Cleaned and processed data
-- `data/external/` - External data sources
+The DeepFashion2 Database is not included with this repository.
 
 ## Development
 
@@ -61,4 +66,4 @@ Place your data files in the appropriate `data/` subdirectories:
 
 ## License
 
-[Add your license here]
+MIT License
