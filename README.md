@@ -16,14 +16,8 @@ DataSci/
 │   ├── models/          # Machine learning models
 │   └── utils/           # Utility functions
 ├── tests/               # Unit tests
-│   ├── __init__.py
-│   └── test_*.py
+│   └── __init__.py
 ├── notebooks/           # Jupyter notebooks
-├── scripts/            # Standalone scripts
-├── data/               # Data files
-│   ├── raw/           # Raw data
-│   ├── processed/     # Processed data
-│   └── external/      # External data sources
 └── docs/              # Documentation
 ```
 
