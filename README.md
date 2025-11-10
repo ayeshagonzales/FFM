@@ -1,11 +1,11 @@
-# DataSci Project
+# Fasion Forecast Machine DS Project
 
 A Python data science project for analysis and machine learning.
 
 ## Project Structure
 
 ```
-DataSci/
+FFM/
 ├── README.md              # Project documentation
 ├── requirements.txt       # Python dependencies
 ├── setup.py              # Package setup configuration
@@ -54,15 +54,7 @@ The DeepFashion2 Database is not included with this repository.
 - Source code goes in `src/`
 - Tests go in `tests/`
 - Jupyter notebooks go in `notebooks/`
-- Utility scripts go in `scripts/`
-
-## Contributing
-
-1. Create a new branch for your feature
-2. Make your changes
-3. Add tests for new functionality
-4. Run tests to ensure everything works
-5. Submit a pull request
+- Utility scripts go in `src/utils/`
 
 ## License
 
